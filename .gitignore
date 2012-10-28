@@ -35,3 +35,7 @@ gtk-doc.make
 INSTALL
 README
 ChangeLog
+
+# Android stuff here
+libs/
+obj/
